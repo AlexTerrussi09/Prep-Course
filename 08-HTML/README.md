@@ -96,7 +96,7 @@ Entonces, hasta ahora, un documento HTML se ve así:
 Como ven, para mayor fácilidad en la lectura y la estructuración del documento, el documento HTML se escribe [indentando (o usando sangría)](https://es.wikipedia.org/wiki/Indentaci%C3%B3n).
 
 (Todos los tags que presentaremos más abajo van siempre adentro de un tag `<body>`)
-
+`
 #### ***\<p>***
 
 Es el tag para los párrafos. Mostrará el texto contenido dentro en una nueva línea.
